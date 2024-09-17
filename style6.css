@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(132, 199, 16);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    background-color: rgb(253, 253, 253);
+    color:rgb(0, 0, 0) ;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    width: 90%;
+    margin: auto;
+    font-size: 24px;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 130px;
+}
+#linha1{
+    background-color: rgb(192, 76, 243);
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+#linha1 th{
+    border: 1px solid blue;
+}
+td{
+    border: 1px dashed rgb(0, 0, 0);
+}
+.dados01{
+    background-color: rgb(255, 38, 0);
+}
+.dados02{
+    background-color: rgb(255, 140, 0);
+}
+.dados03{
+    background-color: rgb(238, 255, 0);
+}
+.dados04{
+    background-color: rgb(71, 25, 240);
+}
+h2{
+    font-size: 48px;
+    color: chartreuse;
+}
